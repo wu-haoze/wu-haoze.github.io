@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in the Computer Science Department at Stanford University. My research interests lie at the intersection of automated reasoning and artificial intelligence. Specifically, I have developed mathematical techniques to rigorously analyze the safety of AI-driven systems. I have also employed machine learning techniques to improve the efficiency of automated reasoning tools. I received my bachelor’s degree in Philosophy and Mathematics at Davidson College in 2018.
+I am a PhD candidate in the Computer Science Department at Stanford University. My research interests lie at the intersection of automated reasoning and artificial intelligence. Specifically, I have developed mathematical techniques to rigorously analyze the safety of AI-driven systems. I have also employed machine learning techniques to improve the efficiency of automated reasoning tools. I received my bachelor’s degree in Philosophy and Mathematics from Davidson College in 2018.
 
 <span style="color:red">**News:**</span>
 - <span style="color:blue">Fall 2023</span>: I am currently on the academic job market for a tenure-track position at Liberal Arts Colleges or R1 universities.
