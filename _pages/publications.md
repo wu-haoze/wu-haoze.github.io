@@ -7,6 +7,20 @@ author_profile: true
 
 {% include base_path %}
 
+## Preprints/In-preparation
+
 {% for post in site.publications reversed %}
-  {% include archive-single.html %}
+{% if post.preprint %}
+{% include archive-single.html %}
+{% endif %}
+{% endfor %}
+
+## Publications
+
+{% for post in site.publications reversed %}
+{% if post.preprint %}
+   
+{% else %}
+{% include archive-single.html %}
+{% endif %}
 {% endfor %}

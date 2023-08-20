@@ -12,100 +12,60 @@
   {% assign title = post.title %}
 {% endif %}
 
+
+
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
-      {% if post.collection == 'teaching' %}
-          <h4>
-        {{ title }} {% if post.link %}
-        <a href="{{ post.link }}"><i class="fas fa-chalkboard zoom" aria-hidden="true"></i></a>
-      
-      {% if post.paperurl %}
-        <a href="{{ post.paperurl }}"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
-      {% endif %}
-      {% elsif post.link %}
-        <a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
-      {% else %}
-        <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
-	    </h4>
-      {% endif %}
-	  {% endif %}
-    
-    {% if post.read_time %}
-      <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
-    {% endif %}
-
     {% if post.collection == 'teaching' %}
-      <p> {{ post.type }}, {% if post.location %} {{ post.location }}, {% endif %} {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
-    {% elsif post.collection == 'publications' %}
-      {% if post.abstract %}
-        <details><summary>Abstract</summary>
-        <blockquote>
-        <p>
-        {{ post.abstract }}
-        </p>
-        </blockquote>
-        </details>
-      {% endif %}
-      
-      <!-- citation and icon code -->
-      <p>
-	<medium>
-      {% if post.collection == 'publications' %}
-      <b>{{ title }}</b>
-      <br>
-      {% endif %}
-      {% if post.authors %}
-        {{ post.authors }}
+    <p>
+      <b> {{ title }} </b>
+      {% if post.link %}
+      <button class="btn" onclick="window.open('{{ post.link }}', '_blank')"><i class="fas fa-chalkboard"></i> Website</button>
       {% endif %}
       <br>
-      {% if post.venue %}
-      <em> {{ post.venue }} </em>
-      {% endif %}
-      {% if post.honor %}
-      <font color="red"> ({{ post.honor }})</font>
-      {% endif %}
-      <br>
-      {% if post.bibtex %}
-      <button class="btn" onclick="window.open('{{ post.bibtex }}', '_blank')"><i class="fa fa-download"></i> BibTeX</button>
-      {% endif %}
-      {% if post.paperurl %}
-      <button class="btn" onclick="window.open('{{ post.paperurl }}', '_blank')"><i class="fas fa-fw fa-file-pdf"></i> Paper</button>
-      {% endif %}
-      {% if post.codeurl %}
-      <button class="btn" onclick="window.open('{{ post.codeurl }}', '_blank')"><i class="fas fa-fw fa-file-code"></i> Code</button>
-      {% endif %}
-      {% if post.equal %}
-      <br>
-      <small>
-	<font color="gray"> {{ post.equal }} </font>
-	</small>
-      {% endif %}
+      <medium>
+	<em> {{ post.role }} </em>
+	<br>
+	{% if post.current %}
+	<font color="green"> <b>{{ post.current }}</b> </font>, 
+	{% endif %}
+	{{ post.location }}
       </medium>
-      </p>
-    {% elsif post.collection == 'posts' and post.date %}
-      <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
-    {% endif %}
+    </p>
     
-    {% if post.excerpt and post.collection == 'research' and site.read_more != 'enabled' %}
-      <p class="archive__item-excerpt" itemprop="description">
-        <a href="{{ base_path }}{{ post.url }}" rel="permalink">
-        <div class="container">
-          {{ post.excerpt }}
-          <div class="overlay">
-          </div>
-        </div>
-        </a>
-      </p>
-    {% elsif post.excerpt and site.read_more != 'enabled' %}
-    <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
-    {% elsif post.excerpt and site.read_more == 'enabled' %}
-      <p class="archive__item-excerpt" itemprop="description">
-        <p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}
-          <strong>
-            <a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a>
-          </strong>
-        </p>
-      </p>
+    {% elsif post.collection == 'publications' %}
+    <p>
+      <medium>
+	<b>{{ title }}</b>
+	<br>
+	{% if post.authors %}
+	{{ post.authors }}
+        <br>
+	{% endif %}
+	{% if post.venue %}
+	<em> {{ post.venue }} </em>
+	{% if post.honor %}
+	<font color="red"> ({{ post.honor }})</font>
+	{% endif %}
+	<br>
+	{% endif %}
+	{% if post.bibtex %}
+	<button class="btn" onclick="window.open('{{ post.bibtex }}', '_blank')"><i class="fa fa-download"></i> BibTeX</button>
+	{% endif %}
+	{% if post.paperurl %}
+	<button class="btn" onclick="window.open('{{ post.paperurl }}', '_blank')"><i class="fas fa-fw fa-file-pdf"></i> Paper</button>
+	{% endif %}
+	{% if post.codeurl %}
+	<button class="btn" onclick="window.open('{{ post.codeurl }}', '_blank')"><i class="fas fa-fw fa-file-code"></i> Code</button>
+	{% endif %}
+	{% if post.equal %}
+	<br>
+	<small>
+	  <font color="gray"> {{ post.equal }} </font>
+	</small>
+	{% endif %}
+      </medium>
+    </p>
     {% endif %}
     
   </article>
