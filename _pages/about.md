@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in the Computer Science Department at Stanford University, advised by Prof. Clark Barrett. I received my Bachelor’s degree in Philosophy and Mathematics from Davidson College in 2018. My research interests lie at the intersection of automated reasoning and artificial intelligence. Specifically, I have developed mathematical techniques to rigorously analyze the safety of AI-driven systems, being the main developer of the [Marabou verification framework](https://github.com/NeuralNetworkVerification/Marabou){:target="_blank"}. I have also employed machine learning to improve the efficiency of automated reasoning tools. I am passionate about teaching.
+I am a PhD candidate in the Computer Science Department at Stanford University, advised by Prof. Clark Barrett. My research interests lie at the intersection of automated reasoning and artificial intelligence. Specifically, I have developed mathematical techniques to rigorously analyze the safety of AI-driven systems, being the main developer of the [Marabou verification framework](https://github.com/NeuralNetworkVerification/Marabou){:target="_blank"}. I have also employed machine learning techniques to improve the efficiency of automated reasoning tools in robust and automatic manners. I am passionate about teaching.
 
 <span style="color:red">**News:**</span>
 - <span style="color:blue">Fall 2023</span>: I am currently on the academic job market for a tenure-track position at Liberal Arts Colleges or R1 universities.

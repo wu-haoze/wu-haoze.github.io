@@ -7,7 +7,7 @@ redirect_from:
   - /personal
 ---
 
-I spent most of my life in Shanghai, China, before flying to the US for my undergraduate. My name in Chinese is 吴昊泽. I have many hobbies, including music, literature, philosophy, travelling, and tennis.
+I received my Bachelor’s degree from Davidson College in 2018, where I double-majored in Philosophy and Mathematics. Before my undergraduate, I spent most of my life in Shanghai, China. My name in Chinese is 吴昊泽. I have many hobbies, including music, literature, philosophy, travelling, and tennis.
 
 I’m a pianist and a guitarist. My favorite composer is Maurice Ravel. For the most part of my undergraduate at Davidson, NC, I served as a pianist at the Lingle Chapel. I also performed at different occasions, including [a Chinese music concert](https://myclintonnews.com/stories/concert-for-the-new-year,4375?){:target="_blank"} in South Carolina to celebrate the Chinese Lunar new year. I love composing music.
 
