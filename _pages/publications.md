@@ -7,6 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
+#### * I publish under the name Haoze Wu
+
 ## Preprints/In-preparation
 
 {% for post in site.publications reversed %}
