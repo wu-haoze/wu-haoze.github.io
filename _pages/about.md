@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in the Computer Science Department at Stanford University, advised by Prof. Clark Barrett. My research interests lie at the intersection of automated reasoning and artificial intelligence. Specifically, I have developed mathematical techniques to rigorously analyze the safety of AI-driven systems, being the main developer of the [Marabou verification framework](https://github.com/NeuralNetworkVerification/Marabou){:target="_blank"}. I have also employed machine learning techniques to improve the efficiency of automated reasoning tools in robust and automatic manners. 
+I am a PhD candidate in the Computer Science Department at Stanford University, advised by Prof. Clark Barrett. My research aims to bridge the gap between automated logical reasoning and machine learning. Specifically, I have developed mathematical techniques to rigorously analyze the safety of AI-driven systems, being the main developer of the [Marabou verification framework](https://github.com/NeuralNetworkVerification/Marabou){:target="_blank"}. I have also employed machine learning techniques to improve the efficiency of automated reasoning tools in robust and automatic manners. 
 
 I am a passionate educator. At Stanford, I have developed and taught a new course, [CS257: Introduction to Automated Reasoning](http://web.stanford.edu/class/cs257/){:target="_blank"}, with Prof. Caroline Trippel. I also plan to compile a textbook on this subject. Potential publishers please don't hesitate to reach out to me.
 
