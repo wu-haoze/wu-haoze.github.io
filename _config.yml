@@ -12,7 +12,7 @@ title_separator          : "-"
 name                     : &name "Andrew Wu"
 description              : &description ""
 url                      : https://wu-haoze.github.io
-baseurl                  : "/about"
+baseurl                  : ""
 repository               : "wu-haoze/wu-haoze.github.io"
 teaser                   : ""
 breadcrumbs              : false
