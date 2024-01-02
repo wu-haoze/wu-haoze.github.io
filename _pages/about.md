@@ -16,4 +16,4 @@ I am a passionate educator. At Stanford, I have developed and taught a new cours
 - <span style="color:blue">Dec. 2023</span>: I will be an Assistant Professor in Computer Science at Amherst College starting Fall 2024
 - <span style="color:blue">Dec. 2023</span>: Our paper "Towards Efficient Verification of Quantized Neural Networks" was accepted at AAAI'24
 - <span style="color:blue">Oct. 2023</span>: I chaired the session ["Control Architectures and Software"](https://ras.papercept.net/conferences/conferences/IROS23/program/IROS23_ContentListWeb_3.html#tubt4){:target="_blank"} at the IEEE/RSJ International Conference on Intelligent Robots (IROS'23). 
-- <span style="color:blue">Fall 2023</span>: I am co-teaching [CS257: Introduction to Automated Reasoning](http://web.stanford.edu/class/cs257/){:target="_blank"} with Prof. Caroline Trippel again this Fall.
+- <span style="color:blue">Fall 2023</span>: I am co-teaching [CS257: Introduction to Automated Reasoning](http://web.stanford.edu/class/cs257/){:target="_blank"} with Prof. Caroline Trippel again this Fall
