@@ -7,6 +7,6 @@ paperurl: 'https://arxiv.org/abs/2310.04870'
 codeurl: 'https://github.com/wu-haoze/Lemur-program-verification'
 link:
 authors: Haoze Wu, Clark Barrett, Nina Narodytska
-honor:
+honor: Oral Presentation at MATH-AI'23
 equal:
 ---
