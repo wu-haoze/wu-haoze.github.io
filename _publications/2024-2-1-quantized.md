@@ -7,6 +7,6 @@ paperurl: 'Towards Efficient Verification of Quantized Neural Networks'
 codeurl: 
 link:
 authors: Pei Huang, Haoze Wu, Yuting Yang, Ieva Daukantas, Min Wu, Yedi Zhang, Clark Barrett
-honor: Oral Presentation (Safe, Robust, and Responsible AI track)
+honor: Oral Presentation at the Safe, Robust, and Responsible AI track
 equal:
 ---
