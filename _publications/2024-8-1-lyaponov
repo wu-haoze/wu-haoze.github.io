@@ -2,7 +2,7 @@
 title:  "Formally Verifying Deep Reinforcement Learning Controllers with Lyapunov Barrier Certificates"
 collection: publications
 venue: Formal Methods in Computer-Aided Design (FMCAD'24) 
-bibtex: '../files/.bib'
+bibtex: '../files/mandal-2024-formally.bib'
 paperurl: 'https://arxiv.org/abs/2405.14058'
 codeurl: 
 link:
