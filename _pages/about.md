@@ -13,6 +13,6 @@ I am an Assistant Professor in Computer Science at Amherst College. My research 
 <span style="color:red">Prospective students</span>: if you are interested in working with me, please send me an email with your CV to start a conversation.
 
 <span style="color:red">**News:**</span>
+- <span style="color:blue">Aug 2024</span>: Our paper ["Formally Verifying Deep Reinforcement Learning Controllers with Lyapunov Barrier Certificates"](https://arxiv.org/abs/2405.14058){:target="_blank"} was accepted at FMCAD'24.
 - <span style="color:blue">May 2024</span>: Our tool paper ["Marabou 2.0: A Versatile Formal Analyzer of Neural Networks"](https://arxiv.org/abs/2401.14461){:target="_blank"} was accepted at CAV'24.
-- <span style="color:blue">Jan. 2024</span>: Our paper ["Lemur: Integrating Large Language Models in Automated Program Verification"](https://arxiv.org/abs/2310.04870){:target="_blank"} was accepted at ICLR'24.
 - <span style="color:blue">Dec. 2023</span>: I will be an Assistant Professor in Computer Science at Amherst College starting Fall 2024.
