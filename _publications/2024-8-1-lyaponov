@@ -1,0 +1,12 @@
+---
+title:  "Formally Verifying Deep Reinforcement Learning Controllers with Lyapunov Barrier Certificates"
+collection: publications
+venue: Formal Methods in Computer-Aided Design (FMCAD'24) 
+bibtex: '../files/.bib'
+paperurl: 'https://arxiv.org/abs/2405.14058'
+codeurl: 
+link:
+authors: Udayan Mandal, Guy Amir, Haoze Wu, Ieva Daukantas, Fletcher Lee Newell, Umberto J. Ravaioli, Baoluo Meng, Michael Durling, Milan Ganai, Tobey Shim, Guy Katz, Clark Barrett
+honor: 
+equal:
+---
