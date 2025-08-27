@@ -9,7 +9,7 @@ author_profile: true
 
 #### * I publish under the name Haoze Wu
 
-## Preprints/In-preparation
+## Preprints
 
 {% for post in site.publications reversed %}
 {% if post.preprint %}
