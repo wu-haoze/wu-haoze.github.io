@@ -8,7 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor in Computer Science at Amherst College. My research aims to bridge the gap between automated logical reasoning and machine learning. Specifically, I have developed mathematical techniques to formally verify properties of AI-driven systems, being the main developer of the [Marabou verification framework](https://github.com/NeuralNetworkVerification/Marabou){:target="_blank"}. I have also employed machine learning techniques to improve the efficiency of automated reasoning tools in robust and automatic manners. 
+I am an Assistant Professor in Computer Science at Amherst College. I am also an affiliated Researcher with VMware by Broadcom.
+
+I envision a future where computer systems seamlessly integrate \emph{logical reasoning} and \emph{machine learning} to automate complex tasks in a scalable, reliable, explainable, and safe manner. Towards that end, I develop mathematical techniques to formally verify and guarantee properties of AI-driven systems. In addition, I investigate machine learning techniques to accelerate logical reasoning tasks. 
+
+Previously, I got my PhD in Computer Science at Stanford, advised by Clark Barrett. Before that, I got my BS in Mathematics and Philosophy from Davidson College.
 
 **Selected publications:**
 - [Marabou 2.0: A Versatile Formal Analyzer of Neural Networks](https://arxiv.org/abs/2401.14461){:target="_blank"} [CAV'24]
