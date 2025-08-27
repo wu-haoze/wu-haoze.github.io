@@ -191,10 +191,6 @@ collections:
 
 # Defaults
 defaults:
-
-    software:
-      output: true
-      permalink: /:collection/:path/
   # _posts
   - scope:
       path: ""
@@ -213,6 +209,15 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # _software
+  - scope:
+      path: ""
+      type: software
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
   # _teaching
   - scope:
       path: ""
