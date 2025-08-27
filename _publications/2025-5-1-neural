@@ -2,7 +2,7 @@
 title:  "Neural network verification is a programming language challenge"
 collection: publications
 venue: European Symposium on Programming (ESOP'25)
-bibtex: ../files/Cordeiro-2025-neural.bib
+bibtex: ../files/cordeiro-2025-neural.bib
 paperurl: 'https://arxiv.org/pdf/2501.05867'
 codeurl: 
 link:
