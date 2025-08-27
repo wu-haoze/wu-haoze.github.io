@@ -21,6 +21,7 @@ Previously, I got my PhD at Stanford University, advised by [Clark Barrett](http
 **Selected publications:**
 - [Marabou 2.0: A Versatile Formal Analyzer of Neural Networks](https://arxiv.org/abs/2401.14461){:target="_blank"} [CAV'24]
 - [Integrating Large Language Models in Automated Program Verification](https://arxiv.org/abs/2310.04870){:target="_blank"} [ICLR'24]
-- [Lightweight Online Learning for Sets of Related Problems in Automated Reasoning](https://repositum.tuwien.at/handle/20.500.12708/188730?mode=full){:target="_blank"} [FMCAD'23]
+- [Lightweight Online Learning for Sets of Related Problems in Automated Reasoning](https://arxiv.org/abs/2305.11087){:target="_blank"} [FMCAD'23]
+- [Efficient Neural Network Analysis with Sum-of-Infeasibilities](https://link.springer.com/chapter/10.1007/978-3-030-99524-9_8) [TACAS'22]
 - [Learning to Generate SAT Formulas](https://arxiv.org/abs/1910.13445){:target="_blank"} [NeurIPS'19]
 - [All publications](https://wu-haoze.github.io/publications/)
