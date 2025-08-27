@@ -6,8 +6,11 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "Software"
+    url: /software/ 
+
   - title: "Teaching"
-    url: /teaching/    
+    url: /teaching/ 
 
   - title: "Personal"
     url: /personal/
