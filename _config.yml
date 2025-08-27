@@ -191,6 +191,10 @@ collections:
 
 # Defaults
 defaults:
+
+    software:
+      output: true
+      permalink: /:collection/:path/
   # _posts
   - scope:
       path: ""
