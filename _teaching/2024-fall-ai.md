@@ -2,7 +2,7 @@
 title: "COSC-241 Artificial Intelligence"
 collection: teaching
 role: "Instructor"
-type: "Course"
+type: "Graduate Course"
 location: "Fall 2024"
 link: 
 current: ""
