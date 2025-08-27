@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Andrew Wu"
+title                    : "Andrew (Haoze) Wu"
 title_separator          : "-"
-name                     : &name "Andrew Wu"
+name                     : &name "Andrew (Haoze) Wu"
 description              : &description ""
 url                      : https://wu-haoze.github.io
 baseurl                  : ""
