@@ -400,3 +400,53 @@
   font-size: $type-size-6;
   text-transform: uppercase;
 }
+
+/*
+   Justify Text for Specific Pages
+   ========================================================================== */
+
+
+/* Alternative approach: target the article element directly */
+article.justify-text .page__content {
+  text-align: justify;
+  
+  p, li, dl, dd {
+    text-align: justify;
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    text-align: left; /* Keep headings left-aligned for readability */
+  }
+}
+
+/* Target the main element for archive layout pages */
+#main.justify-text .archive {
+  text-align: justify;
+  
+  p, li, dl, dd {
+    text-align: justify;
+    line-height: 1.5;
+    margin-bottom: 1.2em;
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    text-align: left; /* Keep headings left-aligned for readability */
+  }
+}
+
+/* Enhanced justify text styling with better typography */
+.justify-text .page__content,
+#main.justify-text .archive {
+  p, li, dl, dd {
+    text-align: justify;
+    line-height: 1.5;
+    margin-bottom: 1.2em;
+    font-weight: 400;
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    text-align: left;
+    font-weight: 600;
+    letter-spacing: -0.02em;
+  }
+}

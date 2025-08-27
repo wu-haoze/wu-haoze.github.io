@@ -6,14 +6,15 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+classes: [justify-text, about-page]
 ---
 
 
-I am an Assistant Professor in Computer Science at Amherst College. I am also an affiliated Researcher with VMware by Broadcom.
+I am an Assistant Professor in Computer Science at [Amherst College](https://www.amherst.edu){:target="_blank"}. I am also an Affiliated Researcher with VMware by Broadcom.
 
-I envision a future where computer systems seamlessly integrate logical reasoning and machine learning to automate complex tasks in a scalable, reliable, explainable, and safe manner. To get there, I develop techniques to **formally verify and guarantee properties of deep-learning-driven systems**. In addition, I investigate **machine learning techniques to accelerate logical reasoning tasks**. 
+I envision a future where computer systems seamlessly integrate **logical reasoning** and **inductive reasoning** to automate complex tasks in a scalable, reliable, safe, and explainable manner. To get there, I develop methods to formally verify and guarantee properties of deep-learning-enabled systems. Plus, I study the integration of machine learning techniques into automated reasoning tools. 
 
-Previously, I got my PhD in Computer Science at Stanford, advised by Clark Barrett. Before that, I graduated with BS in Mathematics and Philosophy from Davidson College.
+Previously, I got my PhD in Computer Science at Stanford University, advised by Clark Barrett. Before that, I graduated with BS in Mathematics and Philosophy from Davidson College.
 
 -------------------
 
