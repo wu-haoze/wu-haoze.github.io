@@ -1,7 +1,7 @@
 ---
 title: "Marabou"
 collection: software
-location: "An open-source SMT-based tool that can answer verification queries over neural networks"
+description: "An open-source SMT-based tool that can answer verification queries over neural networks"
 link: https://github.com/NeuralNetworkVerification/Marabou
 ---
 

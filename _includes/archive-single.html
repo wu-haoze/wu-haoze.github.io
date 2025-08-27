@@ -16,7 +16,17 @@
 
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
-    {% if post.collection == 'teaching' %}
+    {% if post.collection == 'software' %}
+    <p>
+      <b> {{ title }} <button class="btn" onclick="window.open('{{ post.link }}', '_blank')"><i class="fas fa-fw fa-file-code"></i> Code</button>
+     </b>
+      <br>
+      <medium>
+	{{ post.description }}
+      </medium>
+    </p>
+
+    {% elsif post.collection == 'teaching' %}
     <p>
       <b> {{ title }} </b>
       {% if post.link %}
