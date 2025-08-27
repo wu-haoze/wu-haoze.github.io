@@ -1,0 +1,12 @@
+---
+title:  "Neural network verification is a programming language challenge"
+collection: publications
+venue: European Symposium on Programming (ESOP'25)
+bibtex: ../files/Cordeiro-2025-neural.bib
+paperurl: 'https://arxiv.org/pdf/2501.05867'
+codeurl: 
+link:
+authors: Lucas C Cordeiro, Matthew L Daggitt, Julien Girard-Satabin, Omri Isac, Taylor T Johnson, Guy Katz, Ekaterina Komendantskaya, Augustin Lemesle, Edoardo Manino, Artjoms Šinkarovs, Haoze Wu
+honor:
+equal:
+---
