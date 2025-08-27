@@ -16,8 +16,8 @@ Previously, I got my PhD in Computer Science at Stanford, advised by Clark Barre
 
 **Selected publications:**
 - [Marabou 2.0: A Versatile Formal Analyzer of Neural Networks](https://arxiv.org/abs/2401.14461){:target="_blank"} [CAV'24]
-- [Lemur: Integrating Large Language Models in Automated Program Verification](https://arxiv.org/abs/2310.04870){:target="_blank"} [ICLR'24]
-- [Lightweight Online Learning for Sets of Related Problems in Automated Reasoning](https://repositum.tuwien.at/handle/20.500.12708/188730?mode=full){:target="_blank"} [FMCAD'23]
+- [Integrating Large Language Models in Automated Program Verification](https://arxiv.org/abs/2310.04870){:target="_blank"} [ICLR'24]
+- [Lightweight Online Learning for Sets of Related Problems](https://repositum.tuwien.at/handle/20.500.12708/188730?mode=full){:target="_blank"} [FMCAD'23]
 - [Efficient Neural Network Analysis with Sum-of-Infeasibilities](https://arxiv.org/abs/2203.11201){:target="_blank"} [TACAS'22]
-- [G2SAT: Learning to Generate SAT Formulas](https://arxiv.org/abs/1910.13445){:target="_blank"} [NeurIPS'19]
+- [Learning to Generate SAT Formulas](https://arxiv.org/abs/1910.13445){:target="_blank"} [NeurIPS'19]
 - [All publications](https://wu-haoze.github.io/publications/)
