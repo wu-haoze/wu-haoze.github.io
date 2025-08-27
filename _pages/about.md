@@ -10,9 +10,9 @@ redirect_from:
 
 I am an Assistant Professor in Computer Science at Amherst College. I am also an affiliated Researcher with VMware by Broadcom.
 
-I envision a future where computer systems seamlessly integrate \emph{logical reasoning} and \emph{machine learning} to automate complex tasks in a scalable, reliable, explainable, and safe manner. Towards that end, I develop mathematical techniques to formally verify and guarantee properties of AI-driven systems. In addition, I investigate machine learning techniques to accelerate logical reasoning tasks. 
+I envision a future where computer systems seamlessly integrate logical reasoning and machine learning to automate complex tasks in a scalable, reliable, explainable, and safe manner. To get there, I develop mathematical techniques to **formally verify and guarantee properties of AI-driven systems**. In addition, I investigate **machine learning techniques to accelerate logical reasoning tasks**. 
 
-Previously, I got my PhD in Computer Science at Stanford, advised by Clark Barrett. Before that, I got my BS in Mathematics and Philosophy from Davidson College.
+Previously, I got my PhD in Computer Science at Stanford, advised by Clark Barrett. Before that, I graduated with BS in Mathematics and Philosophy from Davidson College.
 
 **Selected publications:**
 - [Marabou 2.0: A Versatile Formal Analyzer of Neural Networks](https://arxiv.org/abs/2401.14461){:target="_blank"} [CAV'24]
