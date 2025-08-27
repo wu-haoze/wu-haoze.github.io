@@ -7,9 +7,9 @@ author_profile: true
 
 {% include base_path %}
 
-#### * I publish under the name Haoze Wu
+I dabble in AI and AR.
 
-## Preprints
+# Preprints
 
 {% for post in site.publications reversed %}
 {% if post.preprint %}
@@ -17,7 +17,9 @@ author_profile: true
 {% endif %}
 {% endfor %}
 
-## Publications
+-----------------
+
+# Publications
 
 {% for post in site.publications reversed %}
 {% if post.preprint %}

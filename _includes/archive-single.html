@@ -17,11 +17,12 @@
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     {% if post.collection == 'software' %}
-    <p>
-      <b> {{ title }} <button class="btn" onclick="window.open('{{ post.link }}', '_blank')"><i class="fas fa-fw fa-file-code"></i> Code</button>
-     </b>
-      <br>
-      <medium>
+	<p>
+	  <b>
+		<a href="{{ post.link }}" target="_blank">{{ title }}</a>
+	  </b>
+	  <br>
+	  <medium>
 	{{ post.description }}
       </medium>
     </p>
@@ -49,8 +50,8 @@
 	<b>{{ title }}</b>
 	<br>
 	{% if post.authors %}
-	{{ post.authors }}
-        <br>
+	<span style="color: #6c757d;">{{ post.authors }}</span>
+	<br>
 	{% endif %}
 	{% if post.venue %}
 	<em> {{ post.venue }} </em>
@@ -60,7 +61,7 @@
 	<br>
 	{% endif %}
 	{% if post.bibtex %}
-	<button class="btn" onclick="window.open('{{ post.bibtex }}', '_blank')"><i class="fa fa-download"></i> BibTeX</button>
+	<a class="btn" href="{{ post.bibtex }}" download><i class="fa fa-download"></i> BibTeX</a>
 	{% endif %}
 	{% if post.paperurl %}
 	<button class="btn" onclick="window.open('{{ post.paperurl }}', '_blank')"><i class="fas fa-fw fa-file-pdf"></i> Paper</button>

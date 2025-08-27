@@ -1,7 +1,7 @@
 ---
 title: "Lemur"
 collection: software
-location: "A program verification prototype that combines LLMs with off-the-shelf program verifiers"
+description: "A prototype verifier that combines LLMs with off-the-shelf program verification tools"
 link: https://github.com/wu-haoze/Lemur-program-verification
 ---
 
