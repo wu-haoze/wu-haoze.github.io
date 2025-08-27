@@ -5,5 +5,4 @@ role: "Co-instructor with Prof. Caroline Trippel"
 type: "Graduate Course"
 location: "Fall 2023, Fall 2022, Stanford University"
 link: http://web.stanford.edu/class/cs257/
-current: ""
 ---
