@@ -1,7 +1,7 @@
 ---
 title:  "Synthesis and Verification of String Stable Control for Interconnected Systems via Neural sISS Certificate"
 collection: publications
-venue: ICLR 2025 Workshop: VerifAI: AI Verification in the Wild
+venue: VerifAI@ICLR 2025
 bibtex: 
 paperurl: 'https://openreview.net/pdf?id=s4jFuCayIa'
 codeurl: 
