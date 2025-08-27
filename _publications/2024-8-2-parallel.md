@@ -2,7 +2,7 @@
 title:  "Parallel Verification for delta-Equivalence of Neural Network Quantization"
 collection: publications
 venue: International Symposium on AI Verification (SAIV'24) 
-bibtex: '../files/mandal-2024-formally.bib'
+bibtex: '../files/huang-2024-parallel.bib'
 paperurl: 'https://par.nsf.gov/servlets/purl/10584656'
 codeurl: 
 link:
