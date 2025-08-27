@@ -9,5 +9,4 @@ link:
 authors: Jingyuan Zhou, Haoze Wu, Longhao Yan, Kaidi Yang
 honor:
 equal:
-preprint: true
 ---
