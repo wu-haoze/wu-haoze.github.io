@@ -4,6 +4,5 @@ collection: teaching
 role: "Instructor"
 type: "Graduate Course"
 location: "Spring 2025, Amherst College"
-link: 
-current: ""
+link:
 ---
