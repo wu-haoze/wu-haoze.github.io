@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-I dabble in AI and AR.
+I dabble in AR and AI.
 
 # Preprints
 
