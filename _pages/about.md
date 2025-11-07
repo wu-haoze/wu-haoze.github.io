@@ -19,6 +19,7 @@ Previously, I got my PhD at Stanford University, advised by [Clark Barrett](http
 -------------------
 
 **Selected publications:**
+- [Cubing for Tuning](https://arxiv.org/abs/2504.19039){:target="_blank"} [AAAI'26]
 - [Marabou 2.0: A Versatile Formal Analyzer of Neural Networks](https://arxiv.org/abs/2401.14461){:target="_blank"} [CAV'24]
 - [Integrating Large Language Models in Automated Program Verification](https://arxiv.org/abs/2310.04870){:target="_blank"} [ICLR'24]
 - [Lightweight Online Learning for Sets of Related Problems in Automated Reasoning](https://arxiv.org/abs/2305.11087){:target="_blank"} [FMCAD'23]
