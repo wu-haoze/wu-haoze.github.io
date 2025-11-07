@@ -9,7 +9,7 @@ author_profile: true
 
 I dabble in AR and AI.
 
-# Preprints
+# Selected Preprint(s)
 
 {% for post in site.publications reversed %}
 {% if post.preprint %}
