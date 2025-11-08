@@ -14,7 +14,7 @@ I am an Assistant Professor in Computer Science at [Amherst College](https://www
 
 I envision a future where computer systems seamlessly integrate **logical reasoning** and **inductive reasoning** to automate complex tasks in a scalable, reliable, safe, and explainable manner. To realize this goal, I develop methods to formally verify and guarantee properties of deep-learning-enabled systems. Besides, I explore how machine learning techniques can accelerate automated reasoning tasks.
 
-Previously, I got my PhD at Stanford University in 2024, advised by [Clark Barrett](https://theory.stanford.edu/~barrett/){:target="_blank"}. Before that, I graduated with BS in Mathematics and Philosophy from [Davidson College](https://www.davidson.edu/){:target="_blank"}.
+I got my PhD at Stanford University in 2024, advised by [Clark Barrett](https://theory.stanford.edu/~barrett/){:target="_blank"}. Before that, I graduated with BS in Mathematics and Philosophy from [Davidson College](https://www.davidson.edu/){:target="_blank"}.
 
 -------------------
 
