@@ -7,6 +7,6 @@ paperurl: ''
 codeurl: 
 link:
 authors: Pei Huang, Dennis Wei, Omri Isac, Haoze Wu, Min Wu, Clark Barrett
-honor: Oral Presentation
+honor:
 equal:
 ---
