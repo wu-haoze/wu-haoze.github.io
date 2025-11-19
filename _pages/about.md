@@ -24,5 +24,4 @@ I got my PhD at Stanford University in 2024, advised by [Clark Barrett](https://
 - [Integrating Large Language Models in Automated Program Verification](https://arxiv.org/abs/2310.04870){:target="_blank"} [ICLR'24]
 - [Lightweight Online Learning for Sets of Related Problems in Automated Reasoning](https://arxiv.org/abs/2305.11087){:target="_blank"} [FMCAD'23]
 - [Efficient Neural Network Analysis with Sum-of-Infeasibilities](https://link.springer.com/chapter/10.1007/978-3-030-99524-9_8) [TACAS'22]
-- [Learning to Generate SAT Formulas](https://arxiv.org/abs/1910.13445){:target="_blank"} [NeurIPS'19]
 - [All publications](https://wu-haoze.github.io/publications/)
