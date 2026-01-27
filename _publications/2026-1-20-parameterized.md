@@ -1,7 +1,7 @@
 ---
 title:  "Parameterized Abstract Interpretation for Transformer Verification"
 collection: publications
-venue: To appear at The 40th Annual AAAI Conference on Artificial Intelligence (AAAI'26)
+venue: The 40th Annual AAAI Conference on Artificial Intelligence (AAAI'26)
 bibtex: 
 paperurl: ''
 codeurl: 
