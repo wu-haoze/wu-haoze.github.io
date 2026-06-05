@@ -9,8 +9,7 @@ redirect_from:
 classes: [justify-text, about-page]
 ---
 
-
-I am an Assistant Professor in Computer Science at Amherst College. I am also an Affiliated Researcher at Broadcom and an Adjunct Assistant Professor at the University of Massachusetts Amherst.
+I am an Assistant Professor of Computer Science at Amherst College. I am also affiliated with Broadcom and the Manning College of Information and Computer Sciences at UMass Amherst.
 
 I envision a future where computer systems seamlessly integrate **logical reasoning** and **inductive reasoning** to automate complex tasks in a scalable, reliable, safe, and explainable manner. To realize this goal, I develop and apply formal methods to improve the trustworthiness of learning-enabled systems; I also explore how learning techniques can empower automated reasoning tasks.
 
