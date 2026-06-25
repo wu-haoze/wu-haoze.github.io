@@ -1,0 +1,25 @@
+@InProceedings{10.1007/978-3-031-65112-0_4,
+author="Huang, Pei
+and Yang, Yuting
+and Wu, Haoze
+and Daukantas, Ieva
+and Wu, Min
+and Jia, Fuqi
+and Barrett, Clark",
+editor="Avni, Guy
+and Giacobbe, Mirco
+and Johnson, Taylor T.
+and Katz, Guy
+and Lukina, Anna
+and Narodytska, Nina
+and Schilling, Christian",
+title="Parallel Verification for {\$}{\$}{\backslash}delta {\$}{\$}-Equivalence of Neural Network Quantization",
+booktitle="AI Verification",
+year="2024",
+publisher="Springer Nature Switzerland",
+address="Cham",
+pages="78--99",
+abstract="Quantization replaces floating point arithmetic with integer arithmetic in deep neural networks, enabling more efficient on-device inference with less power and memory. However, it also brings in loss of generalization and even potential errors to the models. In this work, we propose a parallelization technique for formally verifying the equivalence between quantized models and their original real-valued counterparts. In order to guarantee both soundness and completeness, mixed integer linear programming (MILP) is deployed as the baseline technique. Nevertheless, the incorporation of two networks as well as the mixture of integer and real number arithmetic make the problem much more challenging than verifying a single network, and thus using MILP alone is inadequate for the non-trivial cases. To tackle this, we design a distributed verification technique that can leverage hundreds of CPUs on high-performance computing clusters. We develop a two-tier parallel framework and propose property- and output-based partition strategies. Evaluated on perception networks quantized with PyTorch, our approach outperforms existing methods in successfully verifying many cases that are otherwise considered infeasible.",
+isbn="978-3-031-65112-0"
+}
+
