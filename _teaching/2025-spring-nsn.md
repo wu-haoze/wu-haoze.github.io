@@ -3,7 +3,7 @@ title: "COSC-227 Neural Safety Net"
 collection: teaching
 role: "Instructor"
 type: "Graduate Course"
-location: "Amherst College"
+location: "Fall 2025, Amherst College"
 link:
-current: Fall 2025
+current:
 ---
