@@ -10,4 +10,7 @@ main:
     url: /software/ 
 
   - title: "Teaching"
-    url: /teaching/ 
+    url: /teaching/
+
+  - title: "CV"
+    url: /files/CV_Haoze_Andrew_Wu.pdf
