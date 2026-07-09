@@ -4,7 +4,7 @@ collection: publications
 venue: To Appear at the 35th International Joint Conference on Artificial Intelligence (IJCAI'26)
 bibtex: '../files/davis-2026-lookahead.bib'
 paperurl: '../files/Lookahead_Branching_IJCAI-ECAI_2026.pdf'
-codeurl: 
+codeurl: https://github.com/ai-ar-research/lookahead-branching
 link:
 authors: Liam Davis, Duo Zhou, Huan Zhang, Guy Katz, Clark Barrett, Haoze Wu
 honor:
