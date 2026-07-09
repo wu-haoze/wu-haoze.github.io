@@ -1,9 +1,8 @@
 ---
-title:  "Lookahead Branching for Neural Network Verification
-"
+title:  "Lookahead Branching for Neural Network Verification"
 collection: publications
 venue: To Appear at the 35th International Joint Conference on Artificial Intelligence (IJCAI'26)
-bibtex: 
+bibtex: '../files/davis-2026-lookahead.bib'
 paperurl: '../files/Lookahead_Branching_IJCAI-ECAI_2026.pdf'
 codeurl: 
 link:
