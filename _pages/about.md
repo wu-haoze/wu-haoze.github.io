@@ -11,7 +11,7 @@ classes: [justify-text, about-page]
 
 I am an Assistant Professor of Computer Science at [Amherst College](https://www.amherst.edu/){:target="_blank"}. I am also affiliated with [Broadcom](https://www.vmware.com/){:target="_blank"} and the [Manning College of Information and Computer Sciences](https://www.cics.umass.edu/){:target="_blank"} at UMass Amherst.
 
-I envision a future where computer systems seamlessly integrate **logical reasoning** and **inductive reasoning** to automate complex tasks in a scalable, reliable, safe, and explainable manner. To realize this goal, I develop and apply formal methods to improve the trustworthiness of learning-enabled systems; I also explore how learning techniques can empower automated reasoning tasks.
+AI is shaping the future of software, but it also risks making software more vulnerable. My research aims not only to address this AI safety challenge, but also to leverage AI to make software systems safer AND more capable than ever before. To realize this goal, I develop formal methods to improve the trustworthiness of learning-enabled systems and study AI-assisted automated reasoning.
 
 I got my PhD at Stanford University in 2024, advised by Clark Barrett. Before that, I graduated with BS in Mathematics and Philosophy from Davidson College.
 
