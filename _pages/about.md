@@ -15,6 +15,8 @@ AI is reshaping the future of software, but it also risks making our software mo
 
 I got my PhD at Stanford University in 2024, advised by Clark Barrett. Before that, I graduated with BS in Mathematics and Philosophy from Davidson College.
 
+**If you are an undergraduate or graduate student interested in working with me, please reach out!**
+
 -------------------
 
 **Selected work:**
