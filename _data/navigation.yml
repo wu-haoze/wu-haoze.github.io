@@ -6,9 +6,6 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Group"
-    url: /lab/
-
   - title: "Software"
     url: /software/ 
 
