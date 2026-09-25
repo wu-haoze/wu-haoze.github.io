@@ -1,5 +1,5 @@
 ---
-title: "COSC-113 Programming, problem solving, and proofs"
+title: "COSC-113 Programming, Problem Solving, and Proofs"
 collection: teaching
 role: "Instructor"
 type: "Graduate Course"
