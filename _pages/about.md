@@ -20,6 +20,7 @@ I got my PhD at Stanford University in 2024, advised by Clark Barrett. Before th
 -------------------
 
 **Selected work:**
+- [Viverra: Text-to-Code with Guarantees](https://arxiv.org/abs/2605.14972){:target="_blank"} [NeurIPS'26]
 - [Evaluating Text-to-SQL Evaluation with Formal Verification](https://arxiv.org/abs/2510.26840){:target="_blank"} [ICLR'26]
 - [Cubing for Tuning](https://arxiv.org/abs/2504.19039){:target="_blank"} [AAAI'26]
 - [Marabou 2.0: A Versatile Formal Analyzer of Neural Networks](https://arxiv.org/abs/2401.14461){:target="_blank"} [CAV'24]
