@@ -100,8 +100,8 @@ table {
 
 /* Selected publications styling for about page */
 .about-page .page__content {
-  /* Target the last unordered list (publications) */
-  ul:last-of-type {
+  /* Target the selected publication lists */
+  ul {
     font-size: 0.88em;
     line-height: 1.4;
     margin-left: 0.5em; /* Reduce left indent */
@@ -110,6 +110,7 @@ table {
     li {
       margin-bottom: 0.4em;
       line-height: 1.4;
+      text-align: left; /* Avoid stretched gaps when a title wraps */
     }
   }
   
