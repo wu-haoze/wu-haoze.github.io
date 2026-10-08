@@ -37,6 +37,10 @@ I got my PhD at Stanford University in 2024, advised by Clark Barrett. Before th
 
 -------------
 
-**On Liberal Arts Education**
+**On Higher Education**
 
-At this moment of profound uncertainty, whether at a research university or a liberal arts college, a higher education grounded in the liberal arts is, in my opinion, more valuable than ever. Students urgently need to develop a sense of who they are and what they value, identify the skills to make a positive impact in society, and exercise independent judgment to make sense of an increasingly complex world. A liberal arts education—with its emphasis on close-knit intellectual communities, meaningful relationships with peers and faculty, critical thinking, and interdisciplinary learning—offers an ideal environment for this kind of intellectual and personal growth. At a time when the future of humanity feels increasingly precarious, liberal arts education remains one of the things that gives me hope.
+I am often asked why I choose to devote non-trivial time to teaching. the question sometimes comes with the  assumptions that teaching is a distraction from making real impact. The question comes up frequently enough that I feel compelled to explain why education matters.
+
+At this moment of profound uncertainty, whether at a research university or a liberal arts college, a higher education grounded in the liberal arts is, in my opinion, more valuable than ever. Students urgently need to develop a sense of who they are and what they value, identify the skills to make a positive impact in society, and exercise independent judgment to make sense of an increasingly complex world. A liberal arts education—with its emphasis on close-knit intellectual communities, meaningful relationships with peers and faculty, critical thinking, and interdisciplinary learning—offers an ideal environment for this kind of intellectual and personal growth. At a time when the future of humanity feels increasingly precarious, liberal arts education remains one of the things that gives me hope. 
+
+I hope my colleagues in higher education will reflect on the profound impact we can make not only through our scholarship, but also through our teaching.
