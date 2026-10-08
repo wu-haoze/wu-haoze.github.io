@@ -34,3 +34,9 @@ I got my PhD at Stanford University in 2024, advised by Clark Barrett. Before th
 - [Lightweight Online Learning for Sets of Related Problems in Automated Reasoning](https://arxiv.org/abs/2305.11087){:target="_blank"} [FMCAD'23]
 
 [All publications](https://wu-haoze.github.io/publications/)
+
+-------------
+
+**On Liberal Arts Education**
+
+I strongly believe a liberal arts education is more valuable than ever. As generative AI rapidly reshapes our world, students urgently need to understand who they are and what they value, develop the flexibility to navigate an evolving workforce, and cultivate the independent judgment to make sense of an increasingly complex world. Whether at a research university or a liberal arts college, an education grounded in the liberal arts—with its emphasis on close-knit intellectual communities, meaningful relationships with peers and faculty, critical thinking, and interdisciplinary learning—provides an ideal environment for this growth.
