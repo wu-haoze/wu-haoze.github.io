@@ -29,21 +29,33 @@
 
     {% elsif post.collection == 'teaching' %}
     <p>
+      {% if post.heading %}
+      <font color="green"><b>{{ post.heading }}</b></font>
+      <br>
+      {% endif %}
       <b> {{ title }} </b>
       {% if post.link %}
       <button class="btn" onclick="window.open('{{ post.link }}', '_blank')"><i class="fas fa-chalkboard"></i> Website</button>
       {% endif %}
       <br>
       <medium>
+	{% if post.role %}
 	<em> {{ post.role }} </em>
 	<br>
+	{% endif %}
 	{% if post.current %}
-	<font color="green"> <b>{{ post.current }}</b></font>, 
+	<font color="green"> <b>{{ post.current }}</b></font>,
 	{% endif %}
 	{{ post.location }}
+	{% if post.description %}
+	{{ post.description }}
+	{% endif %}
       </medium>
     </p>
-    
+    {% if post.heading %}
+    <hr>
+    {% endif %}
+
     {% elsif post.collection == 'publications' %}
     <p>
       <medium>
