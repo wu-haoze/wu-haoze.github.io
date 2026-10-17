@@ -22,7 +22,7 @@ I dabble in AR and AI.
 # Publications
 
 {% for post in site.publications reversed %}
-{% if post.preprint %}
+{% if post.preprint or post.hidden %}
    
 {% else %}
 {% include archive-single.html %}
