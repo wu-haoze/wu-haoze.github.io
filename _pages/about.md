@@ -28,7 +28,7 @@ I got my PhD at Stanford University in 2024, advised by Clark Barrett. Before th
 - [Scalable Verification of GNN-based Job Schedulers](https://arxiv.org/abs/2203.03153){:target="_blank"} [OOPSLA'22]
 
 *AI for AR*
-- [Viverra: Text-to-Code with Guarantees](https://arxiv.org/abs/2605.14972){:target="_blank"} [NeurIPS'26]
+- [Tactix: Towards a Programmable Strategy Interface for Flexible SAT Solving](../files/tactix-2026.pdf){:target="_blank"} [In submission]
 - [Cubing for Tuning](https://arxiv.org/abs/2504.19039){:target="_blank"} [AAAI'26]
 - [Lemur: Integrating Large Language Models in Automated Program Verification](https://arxiv.org/abs/2310.04870){:target="_blank"} [ICLR'24]
 - [Lightweight Online Learning for Sets of Related Problems in Automated Reasoning](https://arxiv.org/abs/2305.11087){:target="_blank"} [FMCAD'23]
